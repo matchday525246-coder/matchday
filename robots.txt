@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://matchday525246-coder.github.io/matchday/sitemap.xml
